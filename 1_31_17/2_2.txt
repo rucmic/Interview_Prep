@@ -1,0 +1,19 @@
+Question:
+
+Return Kth to Last:  Implement an algorithm to find the kth to last element of a singly linked list.
+
+Hints:
+
+1) What if you knew the linked list size?  What is the difference between finding the kth to last element and the xth element?  
+
+2) If you don't know the linked list size, can you compute it?  How does this impact the run time? 
+
+3) Try implementing it what recursively, if you can find the (k-1)th to the last element, can you find the kth? 
+
+4)You might find it useful to return multiple values.  Some languages don't directly support this but there are work arounds in essentially every language.  What are some of this work arounds?
+
+5)Can you do it iteratively?
+
+Answer:
+
+  
